@@ -1,0 +1,33 @@
+{
+  "name": "interview-execution",
+  "version": "1.0.0",
+  "description": "this is an interview execution project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukuljainmj/interview-execution.git"
+  },
+  "keywords": [
+    "react.js",
+    "javascript"
+  ],
+  "author": "Mukul Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukuljainmj/interview-execution/issues"
+  },
+  "homepage": "https://github.com/mukuljainmj/interview-execution#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.4"
+  }
+}
